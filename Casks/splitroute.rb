@@ -1,7 +1,7 @@
 # Written by the splitroute release workflow (scripts/update-cask.sh).
 cask "splitroute" do
-  version "0.6.1"
-  sha256 "1a72bc08cad9d1b12ed90aba177e2f88b00dd9b87b789950529200354c2389ac"
+  version "0.8.0"
+  sha256 "bfa8e8542aa6ebd662a3a3c926c6d4137bf2394fba8375bf6b15fab7a9791fbb"
 
   url "https://github.com/split-route/macos/releases/download/v#{version}/Splitroute_#{version}_macos.dmg"
   name "splitroute"
